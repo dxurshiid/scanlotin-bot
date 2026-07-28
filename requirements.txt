@@ -1,6 +1,5 @@
-aiogram
-deep-translator
-easyocr
-pypdf
-requests
-python-dotenv
+aiogram==3.17.0
+deep-translator==1.11.4
+pypdf==5.1.0
+requests==2.32.3
+python-dotenv==1.0.1
