@@ -1,0 +1,6 @@
+aiogram
+deep-translator
+easyocr
+pypdf
+requests
+python-dotenv
